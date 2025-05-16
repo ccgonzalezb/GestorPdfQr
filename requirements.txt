@@ -1,0 +1,8 @@
+qrcode
+qrcode[pil]
+reportlab
+PyPDF2
+pdf2image
+pytesseract
+pdfplumber
+Pillow
